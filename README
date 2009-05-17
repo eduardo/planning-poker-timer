@@ -1,28 +1,11 @@
 Originally from http://blog.aslakhellesoy.com/2007/10/17/planning-poker-timer
 
-A few months ago one of my colleagues, Christer LÃ¸vaas, brought a
-couple of old-fashioned hour glasses (minute glasses, really) to a
-release planning meeting. -A red one with one minute and a blue one with
-two minutes.
+A few months ago one of my colleagues, Christer Løvaas, brought a couple of old-fashioned hour glasses (minute glasses, really) to a release planning meeting. -A red one with one minute and a blue one with two minutes.
 
-We used these to timebox the time spent on estimating each story. We had
-set a goal of spending maximum three minutes per story, including
-discussion and planning poker. We were estimating a huge backlog, so
-this was absolutely necessary in order to get through as much of it as
-possible in one day. (What a day).
+We used these to timebox the time spent on estimating each story. We had set a goal of spending maximum three minutes per story, including discussion and planning poker. We were estimating a huge backlog, so this was absolutely necessary in order to get through as much of it as possible in one day. (What a day).
 
-A couple of weeks ago I was facilitating two all-day release
-planning/planning poker workshops, and I brought the hour glasses with
-me. This time we were facing exactly the same problem as the first time:
-It was so easy to forget turn the hour glasses or realise when the sand
-had run out! So we repeatedly spent more time on each story than we had
-decided.
+A couple of weeks ago I was facilitating two all-day release planning/planning poker workshops, and I brought the hour glasses with me. This time we were facing exactly the same problem as the first time: It was so easy to forget turn the hour glasses or realise when the sand had run out! So we repeatedly spent more time on each story than we had decided.
 
-So I sat down in the lunch and wrote Aslak HellesÃ¸yâs Planning
-Poker Timer. Props to Kristoffer Dyrkorn for fixing some IE bugs.
+So I sat down in the lunch and wrote Aslak Hellesøy’s Planning Poker Timer. Props to Kristoffer Dyrkorn for fixing some IE bugs.
 
-Itâs a big digital countdown clock that switches from green to
-red and plays a bell when time is up. Try it out and let me know how it
-goes.
-
-
+It’s a big digital countdown clock that switches from green to red and plays a bell when time is up. Try it out and let me know how it goes.

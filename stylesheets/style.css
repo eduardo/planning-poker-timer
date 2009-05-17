@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  color: black;
+  font-family: arial, verdana, sans-serif;
+  color: white;
+}
+.bold {
+  font-weight: bold;
+}
+h1 {
+  font-size: 1600%;
+  margin: 0px;
+}
+h2 {
+  font-size: 400%;
+  margin: 0px;
+}
+#info {
+  margin-right: 2px;
+}
+.green {
+  background-color: #00ff00;
+  color: white;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.orange {
+  background-color: orange;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+.blue {
+  background-color: blue;
+  color: white;
+}
+.purple {
+  background-color: purple;
+  color: white;
+}
+.cyan {
+  background-color: cyan;
+  color: black;
+}
+.brown {
+  background-color: brown;
+  color: white;
+}
+.white {
+  background-color: white;
+  color: black;
+}
+.tip-container {
+  float: left;
+  width: 20%;
+}
+/* http://www.dustindiaz.com/min-height-fast-hack/ */
+.tip {
+  color: black;
+  background-color: white;
+  text-align: left;
+  border: 4px solid black;
+  margin: 2px;
+  padding: 4px;
+  min-height: 8em;
+  height:auto !important;
+  height:8em;
+}
+.tip h3 {
+  text-align: center;
+  margin: 0px;
+}
+img {
+  border-width: 0;
+  margin: 4px;
+}
